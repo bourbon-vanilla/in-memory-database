@@ -12,3 +12,7 @@ Nuget packages needed:
 ### Solution
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbiAgXG4gIEFbQm9va0xpYnJhcnkuUmVwb3NpdG9yaWVzLlRlc3RdIC0tPnw8PHJlZj4-fCBDW0Jvb2tMaWJyYXJ5LlJlcG9zaXRvcmllc11cbiAgXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgXG4gIEFbQm9va0xpYnJhcnkuUmVwb3NpdG9yaWVzLlRlc3RdIC0tPnw8PHJlZj4-fCBDW0Jvb2tMaWJyYXJ5LlJlcG9zaXRvcmllc11cbiAgXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
+
+### Remarks
+
+The content of the database for every test method run is recreated, so you don't have to take care of reinitialisation of the database for each test.
